@@ -32,37 +32,37 @@ Technologies: Java, MySQL.
 
 
 **Coursera Online Course "Python"** (November 2021 - January 2022)\
-*An online 6-weeks Python Basics course.*\
+*An online 6-weeks Python Basics course.*
 
 A learning process was focused on Python Basics, OOP concepts, tests, multithreaded and asynchronous programming.
 
 
 **Course PL\SQL - Intermidiate Level** (August 2021)\
-*An intensive 4-weeks course.*\
+*An intensive 4-weeks course.*
 
-Data extraction with PL\SQL, tasks with Dynamic SQL, exceptions.\
+Data extraction with PL\SQL, tasks with Dynamic SQL, exceptions.
 
 
 **DevOps Lab at EPAM** (April 2021 - June 2021)\
-*An intensive full-time 3-months lab.*\
+*An intensive full-time 3-months lab.*
 
 Learning CentOS Linux, Scripting: Bash, Vagrant, Nginx Web Server, Version Control Systems: Git, Docker.
 
 
-**DevOps Fundamentals at EPAM** (January 2021 - March 2021)\
-*An intensive 3-months course.*\
+**DevOps Fundamentals at EPAM** (January 2021 - March 2021)
+*An intensive 3-months course.*
 
 Learning Virtualization, Networking essentials, Windows Server 2019, Scripting: PowerShell,  WebServer: IIS, Active Directory.
 
 
 **Course PL\SQL - Beginning Level** (March 2020)\
-*An intensive 4-weeks course.*\
+*An intensive 4-weeks course.*
 
 Learing PL\SQL Basics and writning functions, procedures, creating packages.
 
 
 **Erasmus+ Program** (June 2017)\
-*An intensive 1-weeks program.*\
+*An intensive 1-weeks program.*
 
 Practicing English - discussing world, problems of people and their difference.
 
