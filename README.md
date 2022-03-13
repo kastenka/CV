@@ -12,9 +12,9 @@
 
 **Technical Specialist** (August 2019 - present)\
 *Belgazprombank*
-- Work with PL\SQL - write scripts to support software for automatic generation bank customer agreements
-- Manual testing new versions of software
-- Troubleshooting technical issues and providing timely and accurate bank employees assistance with software
+- Work with PL\SQL - writing scripts to support the software for automatic generation bank customer agreements
+- Manual testing of the new software versions
+- Troubleshooting technical issues and providing the software assistance for bank employees
 
 
 
@@ -32,44 +32,45 @@ Technologies: Java, MySQL.
 
 
 **Coursera Online Course "Python"** (November 2021 - January 2022)\
-*An online 6-weeks Python Basics course.*
+*An online 6-week Python Basics course.*
 
 A learning process was focused on Python Basics, OOP concepts, tests, multithreaded and asynchronous programming.
 
 
 **Course PL\SQL - Intermidiate Level** (August 2021)\
-*An intensive 4-weeks course.*
+*An intensive 4-week course.*
 
 Data extraction with PL\SQL, tasks with Dynamic SQL, exceptions.
 
 
 **DevOps Lab at EPAM** (April 2021 - June 2021)\
-*An intensive full-time 3-months lab.*
+*An intensive full-time 3-month lab.*
 
 Learning CentOS Linux, Scripting: Bash, Vagrant, Nginx Web Server, Version Control Systems: Git, Docker.
 
 
 **DevOps Fundamentals at EPAM** (January 2021 - March 2021)
-*An intensive 3-months course.*
+*An intensive 3-month course.*
 
 Learning Virtualization, Networking essentials, Windows Server 2019, Scripting: PowerShell,  WebServer: IIS, Active Directory.
 
 
 **Course PL\SQL - Beginning Level** (March 2020)\
-*An intensive 4-weeks course.*
+*An intensive 4-week course.*
 
-Learing PL\SQL Basics and writning functions, procedures, creating packages.
+Learing PL\SQL Basics and writing functions, procedures, creating packages.
 
 
 **Erasmus+ Program** (June 2017)\
-*An intensive 1-weeks program.*
+*An intensive 1-week program.*
 
 Practicing English - discussing world, problems of people and their difference.
 
 
 **Belarusian State University of Informatics and Radioelectronics** (September 2016 - June 2020)\
 *Faculty of Engineering and Economics, Software engineer-economist*
-
+ 
+I'm a certified Software engineer-economist.
 
 ## Skills ##
 
