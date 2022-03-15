@@ -83,12 +83,20 @@ I'm a certified Software engineer-economist.
 ## Skills ##
 
 **Operating Systems**: Linux (Ubuntu, CentOS), Windows
+
 **Programming Languages**: Python, JavaScript
+
 **Scripting**: Bash, PowerShell
+
 **Databases**: PL\SQL, MySQL
+
 **Servers Configuration**: Nginx
+
 **Version Control Systems**: Git
+
 **Other**: Virtualization, Networks, OOP concepts
+
+
 
 ## Languages ##
 
@@ -106,5 +114,6 @@ Travelling, music, art, people, historical buildings, perfomances, design, codin
 
 Liked me? Contact me!
 
-telegram: [@kastenkamasha](https://t.me/kastenkamasha) \
+telegram: [@kastenkamasha](https://t.me/kastenkamasha) 
+
 e-mail: [kastenka.whatsup@gmail.com](mailto:kastenka.whatsup@gmail.com?subject=[GitHub%20Job%20Proposal]%20Hey!%20I%20have%20a%20proposal%20to%20you!)
