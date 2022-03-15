@@ -82,18 +82,20 @@ I'm a certified Software engineer-economist.
 
 ## Skills ##
 
-**Operating Systems**: Linux (Ubuntu, CentOS), Windows\
-**Programming Languages**: Python, JavaScript\
-**Scripting**: Bash, PowerShell\
-**Databases**: PL\SQL, MySQL\
-**Servers Configuration**: Nginx\
-**Version Control Systems**: Git\
+**Operating Systems**: Linux (Ubuntu, CentOS), Windows
+**Programming Languages**: Python, JavaScript
+**Scripting**: Bash, PowerShell
+**Databases**: PL\SQL, MySQL
+**Servers Configuration**: Nginx
+**Version Control Systems**: Git
 **Other**: Virtualization, Networks, OOP concepts
 
 ## Languages ##
 
-**English** - Intermediate level\
-**Russian** - Native\
+**English** - Intermediate level
+
+**Russian** - Native
+
 **Belarusian** - Native
 
 ## Interests ##
