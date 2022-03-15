@@ -26,7 +26,6 @@
 *Telegram bot*. A personal TG bot app.
 
 Developed business logic. Worked with telegram api.
-
 Technologies: Java, MySQL.
 
 
@@ -83,17 +82,11 @@ I'm a certified Software engineer-economist.
 ## Skills ##
 
 **Operating Systems**: Linux (Ubuntu, CentOS), Windows
-
 **Programming Languages**: Python, JavaScript
-
 **Scripting**: Bash, PowerShell
-
 **Databases**: PL\SQL, MySQL
-
 **Servers Configuration**: Nginx
-
 **Version Control Systems**: Git
-
 **Other**: Virtualization, Networks, OOP concepts
 
 
@@ -101,10 +94,9 @@ I'm a certified Software engineer-economist.
 ## Languages ##
 
 **English** - Intermediate level
-
 **Russian** - Native
-
 **Belarusian** - Native
+
 
 ## Interests ##
 
@@ -113,7 +105,5 @@ Travelling, music, art, people, historical buildings, perfomances, design, codin
 ## Contacts ##
 
 Liked me? Contact me!
-
 telegram: [@kastenkamasha](https://t.me/kastenkamasha) 
-
 e-mail: [kastenka.whatsup@gmail.com](mailto:kastenka.whatsup@gmail.com?subject=[GitHub%20Job%20Proposal]%20Hey!%20I%20have%20a%20proposal%20to%20you!)
