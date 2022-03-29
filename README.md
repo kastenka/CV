@@ -78,6 +78,7 @@ I'm a certified Software engineer-economist.
 **Programming Languages**: Python, JavaScript\
 **Scripting**: Bash, PowerShell\
 **Databases**: PL\SQL, MySQL\
+**Frameworks**: Django\
 **Servers Configuration**: Nginx\
 **Version Control Systems**: Git\
 **Other**: Virtualization, Networks, OOP concepts
