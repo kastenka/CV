@@ -4,6 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/23183802/158016884-f2402475-7d0a-4ed6-9e07-f00770a770dc.JPG" width="300" height="300" />
 
+My craving for technology and simplification daily tasks helped me to understand that programming is a wonderful world with great opportunities, where I am happy to apply all my knowledge and grow.
 
 [Experience](#experience) | [Education](#education) | [Skills](#skills) | [Contacts](#contacts)
 
